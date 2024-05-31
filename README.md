@@ -1,4 +1,4 @@
-# Product Manager App
+# Product Management App
 
 ## Table of Contents
 
